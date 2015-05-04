@@ -47,4 +47,5 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 
+lib/spark-assembly-1.4.0-SNAPSHOT-hadoop2.5.0-cdh5.3.3.jar
 
