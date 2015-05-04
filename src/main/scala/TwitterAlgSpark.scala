@@ -18,6 +18,8 @@ object TwitterAlgSpark {
     val sc = new SparkContext(conf)
     val sqlContext = new SQLContext(sc)
 
+
+
     sc.stop()
   }
 }

@@ -6,7 +6,7 @@
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4d1e9530
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7be2624e
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	local: revision in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
@@ -16,7 +16,7 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
 [info] Resolving org.apache.logging.log4j#log4j-api;2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@71fe7d0b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@153fdf2e
 [debug] sbt-chain: module revision found in cache: org.apache.logging.log4j#log4j-api;2.2
 [debug] 	local: revision in cache: org.apache.logging.log4j#log4j-api;2.2
 [debug] 	found org.apache.logging.log4j#log4j-api;2.2 in sbt-chain
@@ -25,7 +25,7 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
 [info] Resolving com.databricks#spark-csv_2.10;1.0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1543ebaa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@ef2c6ab
 [debug] sbt-chain: module revision found in cache: com.databricks#spark-csv_2.10;1.0.3
 [debug] 	local: revision in cache: com.databricks#spark-csv_2.10;1.0.3
 [debug] 	found com.databricks#spark-csv_2.10;1.0.3 in sbt-chain
@@ -34,7 +34,7 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.apache.commons#commons-csv;1.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-csv;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b35a370
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4aafa202
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-csv;1.1
 [debug] 	local: revision in cache: org.apache.commons#commons-csv;1.1
 [debug] 	found org.apache.commons#commons-csv;1.1 in sbt-chain
@@ -43,7 +43,7 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.apache.commons#commons-csv;1.1 [compile->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
 [info] Resolving org.apache.logging.log4j#log4j-core;2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c4f31af
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@585da9f1
 [debug] sbt-chain: module revision found in cache: org.apache.logging.log4j#log4j-core;2.2
 [debug] 	local: revision in cache: org.apache.logging.log4j#log4j-core;2.2
 [debug] 	found org.apache.logging.log4j#log4j-core;2.2 in sbt-chain
@@ -52,13 +52,95 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
 [info] Resolving com.twitter#algebird_2.10;0.9.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b915903
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2be6bdd6
 [debug] sbt-chain: module revision found in cache: com.twitter#algebird_2.10;0.9.0
 [debug] 	local: revision in cache: com.twitter#algebird_2.10;0.9.0
 [debug] 	found com.twitter#algebird_2.10;0.9.0 in sbt-chain
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->default(compile)]
+[info] Resolving com.twitter#algebird-core_2.10;0.9.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59e7f007
+[debug] sbt-chain: module revision found in cache: com.twitter#algebird-core_2.10;0.9.0
+[debug] 	local: revision in cache: com.twitter#algebird-core_2.10;0.9.0
+[debug] 	found com.twitter#algebird-core_2.10;0.9.0 in sbt-chain
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->default(compile)]
+[info] Resolving com.googlecode.javaewah#JavaEWAH;0.6.6 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a94cd9a
+[debug] sbt-chain: module revision found in cache: com.googlecode.javaewah#JavaEWAH;0.6.6
+[debug] 	local: revision in cache: com.googlecode.javaewah#JavaEWAH;0.6.6
+[debug] 	found com.googlecode.javaewah#JavaEWAH;0.6.6 in sbt-chain
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->default(compile)]
+[info] Resolving com.twitter#algebird-util_2.10;0.9.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e8498b2
+[debug] sbt-chain: module revision found in cache: com.twitter#algebird-util_2.10;0.9.0
+[debug] 	local: revision in cache: com.twitter#algebird-util_2.10;0.9.0
+[debug] 	found com.twitter#algebird-util_2.10;0.9.0 in sbt-chain
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->default(compile)]
+[info] Resolving com.twitter#util-core_2.10;6.20.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@577343ba
+[debug] sbt-chain: module revision found in cache: com.twitter#util-core_2.10;6.20.0
+[debug] 	local: revision in cache: com.twitter#util-core_2.10;6.20.0
+[debug] 	found com.twitter#util-core_2.10;6.20.0 in sbt-chain
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->default(compile)]
+[info] Resolving com.twitter#algebird-test_2.10;0.9.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@346ff286
+[debug] sbt-chain: module revision found in cache: com.twitter#algebird-test_2.10;0.9.0
+[debug] 	local: revision in cache: com.twitter#algebird-test_2.10;0.9.0
+[debug] 	found com.twitter#algebird-test_2.10;0.9.0 in sbt-chain
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->default(compile)]
+[info] Resolving org.scalacheck#scalacheck_2.10;1.11.5 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@294224af
+[debug] sbt-chain: module revision found in cache: org.scalacheck#scalacheck_2.10;1.11.5
+[debug] 	local: revision in cache: org.scalacheck#scalacheck_2.10;1.11.5
+[debug] 	found org.scalacheck#scalacheck_2.10;1.11.5 in sbt-chain
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->default(compile)]
+[info] Resolving org.scala-sbt#test-interface;1.0 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@cb0e9b0
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
+[debug] 	local: revision in cache: org.scala-sbt#test-interface;1.0
+[debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->default(compile)]
+[info] Resolving org.scalatest#scalatest_2.10;2.2.2 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@448049af
+[debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.10;2.2.2
+[debug] 	local: revision in cache: org.scalatest#scalatest_2.10;2.2.2
+[debug] 	found org.scalatest#scalatest_2.10;2.2.2 in sbt-chain
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.10.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@395f5a32
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.4
+[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.10.4
+[debug] 	found org.scala-lang#scala-reflect;2.10.4 in sbt-chain
+[debug] 	[2.10.4] org.scala-lang#scala-reflect;2.10.4
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->master]
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [runtime]
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [compile]
@@ -86,6 +168,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
@@ -110,6 +228,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->master]
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [test]
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [runtime]
@@ -138,6 +292,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
@@ -162,6 +352,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->default(compile)]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->compile]
@@ -186,6 +412,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [test->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [test->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test->master]
 [debug] resolving dependencies for configuration 'provided'
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [provided]
 [debug] resolving dependencies for configuration 'optional'
@@ -217,6 +479,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->master]
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [optional]
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [provided]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile-internal->default(compile)]
@@ -243,6 +541,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile-internal->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile-internal->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile-internal->master]
 [debug] resolving dependencies for configuration 'runtime-internal'
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [runtime-internal]
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [runtime]
@@ -271,6 +605,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
@@ -295,6 +665,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->master]
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [optional]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime-internal->default(compile)]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime-internal->runtime]
@@ -320,6 +726,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime-internal->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime-internal->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime-internal->master]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [test-internal]
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [test]
@@ -349,6 +791,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->default(compile)]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
@@ -373,6 +851,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [runtime->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [runtime->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->default(compile)]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test->compile]
@@ -397,6 +911,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [test->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [test->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test->master]
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [optional]
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [provided]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [test-internal->default(compile)]
@@ -423,6 +973,42 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [test-internal->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [test-internal->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [test-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-core_2.10;0.9.0 [test-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.googlecode.javaewah#JavaEWAH;0.6.6 [test-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-util_2.10;0.9.0 [test-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#util-core_2.10;6.20.0 [test-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->com.twitter#algebird-test_2.10;0.9.0 [test-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalacheck#scalacheck_2.10;1.11.5 [test-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-sbt#test-interface;1.0 [test-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scalatest#scalatest_2.10;2.2.2 [test-internal->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test-internal->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test-internal->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test-internal->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [test-internal->master]
 [debug] resolving dependencies for configuration 'plugin'
 [debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 [plugin]
 [debug] resolving dependencies for configuration 'sources'
@@ -437,6 +1023,10 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.10.4 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default(compile)]}
@@ -446,16 +1036,6 @@
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->runtime]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->compile]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->master]
-[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->default(compile)]
-[info] Resolving org.scala-lang#scala-reflect;2.10.4 ...
-[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.10.4 {scala-tool=[default(compile)]}
-[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.4
-[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.10.4
-[debug] 	found org.scala-lang#scala-reflect;2.10.4 in sbt-chain
-[debug] 	[2.10.4] org.scala-lang#scala-reflect;2.10.4
-[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->runtime]
-[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->compile]
-[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [scala-tool->master]
 [debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0->org.scala-lang#jline;2.10.4 [scala-tool->default(compile)]
 [info] Resolving org.scala-lang#jline;2.10.4 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#jline;2.10.4 {scala-tool=[default(compile)]}
@@ -494,14 +1074,117 @@
 [debug] 	[NOT REQUIRED] com.twitter#algebird_2.10;0.9.0!algebird_2.10.jar(doc)
 [debug] 	[NOT REQUIRED] com.twitter#algebird_2.10;0.9.0!algebird_2.10.jar
 [debug] 	[NOT REQUIRED] com.twitter#algebird_2.10;0.9.0!algebird_2.10.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar(src)
+[debug] 		tried /home/worker1/.ivy2/local/com.twitter/algebird-core_2.10/0.9.0/docs/algebird-core_2.10-javadoc.jar
+[debug] 	[NOT REQUIRED] com.twitter#algebird-core_2.10;0.9.0!algebird-core_2.10.jar
+[debug] 		tried /home/worker1/.ivy2/local/com.twitter/algebird-core_2.10/0.9.0/srcs/algebird-core_2.10-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-javadoc.jar
+[info] 	[SUCCESSFUL ] com.twitter#algebird-core_2.10;0.9.0!algebird-core_2.10.jar(doc) (106962ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-sources.jar
+[info] downloading http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-sources.jar
+[info] 	[SUCCESSFUL ] com.twitter#algebird-core_2.10;0.9.0!algebird-core_2.10.jar(src) (4830ms)
+[debug] 	[NOT REQUIRED] com.googlecode.javaewah#JavaEWAH;0.6.6!JavaEWAH.jar(doc)
+[debug] 	[NOT REQUIRED] com.googlecode.javaewah#JavaEWAH;0.6.6!JavaEWAH.jar(src)
+[debug] 	[NOT REQUIRED] com.googlecode.javaewah#JavaEWAH;0.6.6!JavaEWAH.jar
+[debug] 		tried /home/worker1/.ivy2/local/com.twitter/algebird-util_2.10/0.9.0/docs/algebird-util_2.10-javadoc.jar
+[debug] 	[NOT REQUIRED] com.twitter#algebird-util_2.10;0.9.0!algebird-util_2.10.jar
+[debug] 		tried /home/worker1/.ivy2/local/com.twitter/algebird-util_2.10/0.9.0/srcs/algebird-util_2.10-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-javadoc.jar
+[info] 	[SUCCESSFUL ] com.twitter#algebird-util_2.10;0.9.0!algebird-util_2.10.jar(doc) (15044ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-sources.jar
+[info] downloading http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-sources.jar
+[info] 	[SUCCESSFUL ] com.twitter#algebird-util_2.10;0.9.0!algebird-util_2.10.jar(src) (1494ms)
+[debug] 		tried /home/worker1/.ivy2/local/com.twitter/util-core_2.10/6.20.0/docs/util-core_2.10-javadoc.jar
+[debug] 		tried /home/worker1/.ivy2/local/com.twitter/util-core_2.10/6.20.0/srcs/util-core_2.10-sources.jar
+[debug] 	[NOT REQUIRED] com.twitter#util-core_2.10;6.20.0!util-core_2.10.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-javadoc.jar
+[info] 	[SUCCESSFUL ] com.twitter#util-core_2.10;6.20.0!util-core_2.10.jar(doc) (62106ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-sources.jar
+[info] downloading http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-sources.jar
+[info] 	[SUCCESSFUL ] com.twitter#util-core_2.10;6.20.0!util-core_2.10.jar(src) (7888ms)
+[debug] 		tried /home/worker1/.ivy2/local/com.twitter/algebird-test_2.10/0.9.0/docs/algebird-test_2.10-javadoc.jar
+[debug] 		tried /home/worker1/.ivy2/local/com.twitter/algebird-test_2.10/0.9.0/srcs/algebird-test_2.10-sources.jar
+[debug] 	[NOT REQUIRED] com.twitter#algebird-test_2.10;0.9.0!algebird-test_2.10.jar
+[debug] 		tried http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-javadoc.jar
+[info] 	[SUCCESSFUL ] com.twitter#algebird-test_2.10;0.9.0!algebird-test_2.10.jar(doc) (18711ms)
+[debug] 		tried http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-sources.jar
+[info] downloading http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-sources.jar
+[info] 	[SUCCESSFUL ] com.twitter#algebird-test_2.10;0.9.0!algebird-test_2.10.jar(src) (1457ms)
+[debug] 		tried /home/worker1/.ivy2/local/org.scalacheck/scalacheck_2.10/1.11.5/docs/scalacheck_2.10-javadoc.jar
+[debug] 	[NOT REQUIRED] org.scalacheck#scalacheck_2.10;1.11.5!scalacheck_2.10.jar
+[debug] 		tried /home/worker1/.ivy2/local/org.scalacheck/scalacheck_2.10/1.11.5/srcs/scalacheck_2.10-sources.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-javadoc.jar
+[info] 	[SUCCESSFUL ] org.scalacheck#scalacheck_2.10;1.11.5!scalacheck_2.10.jar(doc) (37334ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-sources.jar
+[info] 	[SUCCESSFUL ] org.scalacheck#scalacheck_2.10;1.11.5!scalacheck_2.10.jar(src) (2884ms)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(doc)
+[debug] 		tried /home/worker1/.ivy2/local/org.scalatest/scalatest_2.10/2.2.2/docs/scalatest_2.10-javadoc.jar
+[debug] 		tried /home/worker1/.ivy2/local/org.scalatest/scalatest_2.10/2.2.2/srcs/scalatest_2.10-sources.jar
+[debug] 		tried /home/worker1/.ivy2/local/org.scalatest/scalatest_2.10/2.2.2/jars/scalatest_2.10.jar
+[debug] 		tried http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-javadoc.jar
+[info] downloading http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-javadoc.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-javadoc.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-javadoc.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-javadoc.jar
+[info] 	[SUCCESSFUL ] org.scalatest#scalatest_2.10;2.2.2!scalatest_2.10.jar(doc) (254238ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-sources.jar
+[info] downloading http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-sources.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-sources.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-sources.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-sources.jar
+[info] 	[SUCCESSFUL ] org.scalatest#scalatest_2.10;2.2.2!scalatest_2.10.jar(src) (56771ms)
+[debug] 		tried http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2.jar
+[info] downloading http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2.jar ...
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2.jar
+[debug] 	public: downloading http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2.jar.sha1
+[debug] sha1 OK for http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2.jar
+[info] 	[SUCCESSFUL ] org.scalatest#scalatest_2.10;2.2.2!scalatest_2.10.jar (186196ms)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar(doc)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(doc)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(src)
-[debug] :: resolution report :: resolve 475ms :: artifacts dl 44ms
+[debug] :: resolution report :: resolve 562ms :: artifacts dl 755972ms
 [debug] 	report for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 compile produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark$sources_javadoc_2.10-compile.xml
 [debug] 	report for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 runtime produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark$sources_javadoc_2.10-runtime.xml
 [debug] 	report for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 test produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark$sources_javadoc_2.10-test.xml
@@ -515,4 +1198,4 @@
 [debug] 	report for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 docs produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark$sources_javadoc_2.10-docs.xml
 [debug] 	report for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 pom produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark$sources_javadoc_2.10-pom.xml
 [debug] 	report for twitteralgebirdspark#twitteralgebirdspark$sources_javadoc_2.10;1.0 scala-tool produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark$sources_javadoc_2.10-scala-tool.xml
-[debug] 	resolve done (475ms resolve - 44ms download)
+[debug] 	resolve done (562ms resolve - 755972ms download)
