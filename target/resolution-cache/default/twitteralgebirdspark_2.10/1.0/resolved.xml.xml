@@ -4,7 +4,7 @@
 		module="twitteralgebirdspark_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150504101528"
+		publication="20150504171934"
 	>
 		<description>
 		twitterAlgebirdSpark
@@ -27,7 +27,9 @@
 	</configurations>
 	<publications>
 		<artifact name="twitteralgebirdspark_2.10" type="pom" ext="pom" conf="pom"/>
-		<artifact name="twitteralgebirdspark_2.10" type="jar" ext="jar" conf="optional" e:classifier="download, resolveClassifiers, resolveSbtClassifiers"/>
+		<artifact name="twitteralgebirdspark_2.10" type="jar" ext="jar" conf="compile"/>
+		<artifact name="twitteralgebirdspark_2.10" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+		<artifact name="twitteralgebirdspark_2.10" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
 	</publications>
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.10.4" conf="scala-tool->default,optional(default)"/>
@@ -36,5 +38,8 @@
 		<dependency org="com.databricks" name="spark-csv_2.10" rev="1.0.3" conf="compile->default(compile)"/>
 		<dependency org="org.apache.logging.log4j" name="log4j-core" rev="2.2" conf="compile->default(compile)"/>
 		<dependency org="com.twitter" name="algebird_2.10" rev="0.9.0" conf="compile->default(compile)"/>
+		<dependency org="com.twitter" name="algebird-core_2.10" rev="0.9.0" conf="compile->default(compile)"/>
+		<dependency org="com.twitter" name="algebird-util_2.10" rev="0.9.0" conf="compile->default(compile)"/>
+		<dependency org="com.twitter" name="algebird-test_2.10" rev="0.9.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
