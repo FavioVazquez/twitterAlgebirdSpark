@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20150504113330"/>
+		date="20150504165515"/>
 	<dependencies>
 		<module organisation="com.twitter" name="algebird-util_2.10">
 			<revision name="0.9.0" status="release" pubdate="20150121182303" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/twitter/algebird" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="8">
@@ -15,13 +15,13 @@
 				<metadata-artifact status="no" details="" size="3030" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-util_2.10/ivy-0.9.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0.pom"/>
 				<caller organisation="twitteralgebirdspark" name="twitteralgebirdspark$sources_javadoc_2.10" conf="compile, runtime-internal, runtime, optional" rev="0.9.0" rev-constraint-default="0.9.0" rev-constraint-dynamic="0.9.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="algebird-util_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="458361" time="15044" location="/home/worker1/.ivy2/cache/com.twitter/algebird-util_2.10/docs/algebird-util_2.10-0.9.0-javadoc.jar">
+					<artifact name="algebird-util_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="458361" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-util_2.10/docs/algebird-util_2.10-0.9.0-javadoc.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-javadoc.jar"/>
 					</artifact>
 					<artifact name="algebird-util_2.10" type="jar" ext="jar" status="no" details="" size="156278" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-util_2.10/jars/algebird-util_2.10-0.9.0.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0.jar"/>
 					</artifact>
-					<artifact name="algebird-util_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="18595" time="1494" location="/home/worker1/.ivy2/cache/com.twitter/algebird-util_2.10/srcs/algebird-util_2.10-0.9.0-sources.jar">
+					<artifact name="algebird-util_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="18595" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-util_2.10/srcs/algebird-util_2.10-0.9.0-sources.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/twitter/algebird-util_2.10/0.9.0/algebird-util_2.10-0.9.0-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -33,10 +33,10 @@
 				<metadata-artifact status="no" details="" size="3099" time="0" location="/home/worker1/.ivy2/cache/com.twitter/util-core_2.10/ivy-6.20.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0.pom"/>
 				<caller organisation="twitteralgebirdspark" name="twitteralgebirdspark$sources_javadoc_2.10" conf="compile, runtime-internal, runtime, optional" rev="6.20.0" rev-constraint-default="6.20.0" rev-constraint-dynamic="6.20.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="util-core_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1310791" time="62106" location="/home/worker1/.ivy2/cache/com.twitter/util-core_2.10/docs/util-core_2.10-6.20.0-javadoc.jar">
+					<artifact name="util-core_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1310791" time="0" location="/home/worker1/.ivy2/cache/com.twitter/util-core_2.10/docs/util-core_2.10-6.20.0-javadoc.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-javadoc.jar"/>
 					</artifact>
-					<artifact name="util-core_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="126157" time="7888" location="/home/worker1/.ivy2/cache/com.twitter/util-core_2.10/srcs/util-core_2.10-6.20.0-sources.jar">
+					<artifact name="util-core_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="126157" time="0" location="/home/worker1/.ivy2/cache/com.twitter/util-core_2.10/srcs/util-core_2.10-6.20.0-sources.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/twitter/util-core_2.10/6.20.0/util-core_2.10-6.20.0-sources.jar"/>
 					</artifact>
 					<artifact name="util-core_2.10" type="jar" ext="jar" status="no" details="" size="1205871" time="0" location="/home/worker1/.ivy2/cache/com.twitter/util-core_2.10/jars/util-core_2.10-6.20.0.jar">
@@ -51,10 +51,10 @@
 				<metadata-artifact status="no" details="" size="3055" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-test_2.10/ivy-0.9.0.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0.pom"/>
 				<caller organisation="twitteralgebirdspark" name="twitteralgebirdspark$sources_javadoc_2.10" conf="compile, runtime-internal, runtime, optional" rev="0.9.0" rev-constraint-default="0.9.0" rev-constraint-dynamic="0.9.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="algebird-test_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="391225" time="18711" location="/home/worker1/.ivy2/cache/com.twitter/algebird-test_2.10/docs/algebird-test_2.10-0.9.0-javadoc.jar">
+					<artifact name="algebird-test_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="391225" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-test_2.10/docs/algebird-test_2.10-0.9.0-javadoc.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-javadoc.jar"/>
 					</artifact>
-					<artifact name="algebird-test_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="8823" time="1457" location="/home/worker1/.ivy2/cache/com.twitter/algebird-test_2.10/srcs/algebird-test_2.10-0.9.0-sources.jar">
+					<artifact name="algebird-test_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="8823" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-test_2.10/srcs/algebird-test_2.10-0.9.0-sources.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/twitter/algebird-test_2.10/0.9.0/algebird-test_2.10-0.9.0-sources.jar"/>
 					</artifact>
 					<artifact name="algebird-test_2.10" type="jar" ext="jar" status="no" details="" size="208574" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-test_2.10/jars/algebird-test_2.10-0.9.0.jar">
@@ -69,13 +69,13 @@
 				<metadata-artifact status="no" details="" size="4582" time="0" location="/home/worker1/.ivy2/cache/org.scalatest/scalatest_2.10/ivy-2.2.2.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2.pom"/>
 				<caller organisation="twitteralgebirdspark" name="twitteralgebirdspark$sources_javadoc_2.10" conf="compile, runtime-internal, runtime, optional" rev="2.2.2" rev-constraint-default="2.2.2" rev-constraint-dynamic="2.2.2" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scalatest_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="7298131" time="254238" location="/home/worker1/.ivy2/cache/org.scalatest/scalatest_2.10/docs/scalatest_2.10-2.2.2-javadoc.jar">
+					<artifact name="scalatest_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="7298131" time="0" location="/home/worker1/.ivy2/cache/org.scalatest/scalatest_2.10/docs/scalatest_2.10-2.2.2-javadoc.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-javadoc.jar"/>
 					</artifact>
-					<artifact name="scalatest_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="1423469" time="56771" location="/home/worker1/.ivy2/cache/org.scalatest/scalatest_2.10/srcs/scalatest_2.10-2.2.2-sources.jar">
+					<artifact name="scalatest_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1423469" time="0" location="/home/worker1/.ivy2/cache/org.scalatest/scalatest_2.10/srcs/scalatest_2.10-2.2.2-sources.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2-sources.jar"/>
 					</artifact>
-					<artifact name="scalatest_2.10" type="jar" ext="jar" status="successful" details="" size="7500883" time="186196" location="/home/worker1/.ivy2/cache/org.scalatest/scalatest_2.10/jars/scalatest_2.10-2.2.2.jar">
+					<artifact name="scalatest_2.10" type="jar" ext="jar" status="no" details="" size="7500883" time="0" location="/home/worker1/.ivy2/cache/org.scalatest/scalatest_2.10/jars/scalatest_2.10-2.2.2.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scalatest/scalatest_2.10/2.2.2/scalatest_2.10-2.2.2.jar"/>
 					</artifact>
 				</artifacts>
@@ -105,13 +105,13 @@
 				<metadata-artifact status="no" details="" size="2659" time="0" location="/home/worker1/.ivy2/cache/org.scalacheck/scalacheck_2.10/ivy-1.11.5.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5.pom"/>
 				<caller organisation="twitteralgebirdspark" name="twitteralgebirdspark$sources_javadoc_2.10" conf="compile, runtime-internal, runtime, optional" rev="1.11.5" rev-constraint-default="1.11.5" rev-constraint-dynamic="1.11.5" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scalacheck_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="563962" time="37334" location="/home/worker1/.ivy2/cache/org.scalacheck/scalacheck_2.10/docs/scalacheck_2.10-1.11.5-javadoc.jar">
+					<artifact name="scalacheck_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="563962" time="0" location="/home/worker1/.ivy2/cache/org.scalacheck/scalacheck_2.10/docs/scalacheck_2.10-1.11.5-javadoc.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-javadoc.jar"/>
 					</artifact>
 					<artifact name="scalacheck_2.10" type="jar" ext="jar" status="no" details="" size="870730" time="0" location="/home/worker1/.ivy2/cache/org.scalacheck/scalacheck_2.10/jars/scalacheck_2.10-1.11.5.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5.jar"/>
 					</artifact>
-					<artifact name="scalacheck_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="34285" time="2884" location="/home/worker1/.ivy2/cache/org.scalacheck/scalacheck_2.10/srcs/scalacheck_2.10-1.11.5-sources.jar">
+					<artifact name="scalacheck_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="34285" time="0" location="/home/worker1/.ivy2/cache/org.scalacheck/scalacheck_2.10/srcs/scalacheck_2.10-1.11.5-sources.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scalacheck/scalacheck_2.10/1.11.5/scalacheck_2.10-1.11.5-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -141,13 +141,13 @@
 				<metadata-artifact status="no" details="" size="2792" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-core_2.10/ivy-0.9.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0.pom"/>
 				<caller organisation="twitteralgebirdspark" name="twitteralgebirdspark$sources_javadoc_2.10" conf="compile, runtime-internal, runtime, optional" rev="0.9.0" rev-constraint-default="0.9.0" rev-constraint-dynamic="0.9.0" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="algebird-core_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="2469174" time="106962" location="/home/worker1/.ivy2/cache/com.twitter/algebird-core_2.10/docs/algebird-core_2.10-0.9.0-javadoc.jar">
+					<artifact name="algebird-core_2.10" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="2469174" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-core_2.10/docs/algebird-core_2.10-0.9.0-javadoc.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-javadoc.jar"/>
 					</artifact>
 					<artifact name="algebird-core_2.10" type="jar" ext="jar" status="no" details="" size="2712168" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-core_2.10/jars/algebird-core_2.10-0.9.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0.jar"/>
 					</artifact>
-					<artifact name="algebird-core_2.10" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="150674" time="4830" location="/home/worker1/.ivy2/cache/com.twitter/algebird-core_2.10/srcs/algebird-core_2.10-0.9.0-sources.jar">
+					<artifact name="algebird-core_2.10" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="150674" time="0" location="/home/worker1/.ivy2/cache/com.twitter/algebird-core_2.10/srcs/algebird-core_2.10-0.9.0-sources.jar">
 						<origin-location is-local="false" location="http://repo1.maven.org/maven2/com/twitter/algebird-core_2.10/0.9.0/algebird-core_2.10-0.9.0-sources.jar"/>
 					</artifact>
 				</artifacts>

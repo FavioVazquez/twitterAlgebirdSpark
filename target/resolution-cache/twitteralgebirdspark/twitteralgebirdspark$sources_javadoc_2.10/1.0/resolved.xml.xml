@@ -4,7 +4,7 @@
 		module="twitteralgebirdspark$sources_javadoc_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150504113330"
+		publication="20150504165515"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

@@ -4,7 +4,7 @@
 		module="twitteralgebirdspark-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20150504110445"
+		publication="20150504165457"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
