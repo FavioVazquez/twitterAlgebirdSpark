@@ -1,34 +1,37 @@
 [info] Updating {file:/home/worker1/Documents/GitProjects/twitterAlgebirdSpark/}twitteralgebirdspark...
-[debug] :: resolving dependencies :: default#twitteralgebirdspark_2.10;1.0
+[debug] :: resolving dependencies :: twitteralgebirdspark#twitteralgebirdspark_2.10;1.0
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'compile'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72276d8d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3d0e7ada
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
+[debug] 	local: revision in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
 [info] Resolving org.apache.logging.log4j#log4j-api;2.2 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.logging.log4j#log4j-api;2.2 {compile=[default(compile)]}
 [debug] sbt-chain: module revision found in cache: org.apache.logging.log4j#log4j-api;2.2
+[debug] 	local: revision in cache: org.apache.logging.log4j#log4j-api;2.2
 [debug] 	found org.apache.logging.log4j#log4j-api;2.2 in sbt-chain
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
 [info] Resolving com.databricks#spark-csv_2.10;1.0.3 ...
 [debug] sbt-chain: Checking cache for: dependency: com.databricks#spark-csv_2.10;1.0.3 {compile=[default(compile)]}
 [debug] sbt-chain: module revision found in cache: com.databricks#spark-csv_2.10;1.0.3
+[debug] 	local: revision in cache: com.databricks#spark-csv_2.10;1.0.3
 [debug] 	found com.databricks#spark-csv_2.10;1.0.3 in sbt-chain
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->runtime(*)]
@@ -37,6 +40,7 @@
 [info] Resolving org.apache.commons#commons-csv;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.commons#commons-csv;1.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-csv;1.1
+[debug] 	local: revision in cache: org.apache.commons#commons-csv;1.1
 [debug] 	found org.apache.commons#commons-csv;1.1 in sbt-chain
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [compile->compile(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [compile->runtime(*)]
@@ -45,41 +49,43 @@
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [runtime->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->runtime(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
 [info] Resolving org.apache.logging.log4j#log4j-core;2.2 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.logging.log4j#log4j-core;2.2 {compile=[default(compile)]}
 [debug] sbt-chain: module revision found in cache: org.apache.logging.log4j#log4j-core;2.2
+[debug] 	local: revision in cache: org.apache.logging.log4j#log4j-core;2.2
 [debug] 	found org.apache.logging.log4j#log4j-core;2.2 in sbt-chain
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
 [info] Resolving com.twitter#algebird_2.10;0.9.0 ...
 [debug] sbt-chain: Checking cache for: dependency: com.twitter#algebird_2.10;0.9.0 {compile=[default(compile)]}
 [debug] sbt-chain: module revision found in cache: com.twitter#algebird_2.10;0.9.0
+[debug] 	local: revision in cache: com.twitter#algebird_2.10;0.9.0
 [debug] 	found com.twitter#algebird_2.10;0.9.0 in sbt-chain
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
 [debug] resolving dependencies for configuration 'runtime'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [runtime]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [runtime]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [compile->master(compile)]
@@ -88,34 +94,34 @@
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [runtime->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->runtime(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
 [debug] resolving dependencies for configuration 'test'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [test]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [runtime]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [test]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [runtime]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [compile->master(compile)]
@@ -124,37 +130,37 @@
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [runtime->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->runtime(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
 [debug] resolving dependencies for configuration 'provided'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [provided]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [provided]
 [debug] resolving dependencies for configuration 'optional'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [optional]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [optional]
 [debug] resolving dependencies for configuration 'compile-internal'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [compile-internal]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [compile-internal]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [compile->master(compile)]
@@ -163,36 +169,36 @@
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [runtime->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->runtime(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [optional]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [provided]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [optional]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [provided]
 [debug] resolving dependencies for configuration 'runtime-internal'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [runtime-internal]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [runtime]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [runtime-internal]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [runtime]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [compile->master(compile)]
@@ -201,36 +207,36 @@
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [runtime->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->runtime(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [optional]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [optional]
 [debug] resolving dependencies for configuration 'test-internal'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [test-internal]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [test]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [runtime]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [test-internal]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [test]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [runtime]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-api;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [compile->master(compile)]
@@ -239,38 +245,39 @@
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.scala-lang#scala-library;2.10.4 [runtime->compile]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->runtime(*)]
 [debug] == resolving dependencies com.databricks#spark-csv_2.10;1.0.3->org.apache.commons#commons-csv;1.1 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.databricks#spark-csv_2.10;1.0.3 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.apache.logging.log4j#log4j-core;2.2 [compile->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->default(compile)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->compile]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->master(compile)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->runtime(*)]
 [debug] == resolving dependencies com.twitter#algebird_2.10;0.9.0->org.scala-lang#scala-library;2.10.4 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [optional]
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [provided]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->com.twitter#algebird_2.10;0.9.0 [compile->master]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [optional]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [provided]
 [debug] resolving dependencies for configuration 'plugin'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [plugin]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [plugin]
 [debug] resolving dependencies for configuration 'sources'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [sources]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [sources]
 [debug] resolving dependencies for configuration 'docs'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [docs]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [docs]
 [debug] resolving dependencies for configuration 'pom'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [pom]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [pom]
 [debug] resolving dependencies for configuration 'scala-tool'
-[debug] == resolving dependencies for default#twitteralgebirdspark_2.10;1.0 [scala-tool]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->default]
+[debug] == resolving dependencies for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 [scala-tool]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->default]
 [info] Resolving org.scala-lang#scala-compiler;2.10.4 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.10.4 {scala-tool=[default, optional(default)]}
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.4
+[debug] 	local: revision in cache: org.scala-lang#scala-compiler;2.10.4
 [debug] 	found org.scala-lang#scala-compiler;2.10.4 in sbt-chain
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->compile]
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-library;2.10.4 [compile->master(*)]
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-library;2.10.4 [compile->compile(*)]
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-library;2.10.4 [compile->default]
@@ -282,6 +289,7 @@
 [info] Resolving org.scala-lang#scala-reflect;2.10.4 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.10.4 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.4
+[debug] 	local: revision in cache: org.scala-lang#scala-reflect;2.10.4
 [debug] 	found org.scala-lang#scala-reflect;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-reflect;2.10.4
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-reflect;2.10.4 [compile->compile(*)]
@@ -295,25 +303,27 @@
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-library;2.10.4 [runtime->compile]
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-reflect;2.10.4 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#scala-reflect;2.10.4 [runtime->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->optional(default)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-compiler;2.10.4 [scala-tool->optional(default)]
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#jline;2.10.4 [optional->master(*)]
 [info] Resolving org.scala-lang#jline;2.10.4 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#jline;2.10.4 {optional=[compile(*), master(*)]}
 [debug] sbt-chain: module revision found in cache: org.scala-lang#jline;2.10.4
+[debug] 	local: revision in cache: org.scala-lang#jline;2.10.4
 [debug] 	found org.scala-lang#jline;2.10.4 in sbt-chain
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.10.4->org.scala-lang#jline;2.10.4 [optional->compile(*)]
 [debug] == resolving dependencies org.scala-lang#jline;2.10.4->org.fusesource.jansi#jansi;1.4 [compile->master(*)]
 [info] Resolving org.fusesource.jansi#jansi;1.4 ...
 [debug] sbt-chain: Checking cache for: dependency: org.fusesource.jansi#jansi;1.4 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] sbt-chain: module revision found in cache: org.fusesource.jansi#jansi;1.4
+[debug] 	local: revision in cache: org.fusesource.jansi#jansi;1.4
 [debug] 	found org.fusesource.jansi#jansi;1.4 in sbt-chain
 [debug] == resolving dependencies org.scala-lang#jline;2.10.4->org.fusesource.jansi#jansi;1.4 [compile->compile(*)]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->default]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->runtime]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->compile]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->master]
-[debug] == resolving dependencies default#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->optional(default)]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->default]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->runtime]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->compile]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->master]
+[debug] == resolving dependencies twitteralgebirdspark#twitteralgebirdspark_2.10;1.0->org.scala-lang#scala-library;2.10.4 [scala-tool->optional(default)]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.4!scala-library.jar
@@ -326,19 +336,19 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.4!scala-reflect.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 153ms :: artifacts dl 4ms
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 compile produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-compile.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 runtime produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-runtime.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 test produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-test.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 provided produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-provided.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 optional produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-optional.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 compile-internal produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-compile-internal.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 runtime-internal produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-runtime-internal.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 test-internal produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-test-internal.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 plugin produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-plugin.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 sources produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-sources.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 docs produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-docs.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 pom produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-pom.xml
-[debug] 	report for default#twitteralgebirdspark_2.10;1.0 scala-tool produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/default-twitteralgebirdspark_2.10-scala-tool.xml
-[debug] 	resolve done (153ms resolve - 4ms download)
+[debug] :: resolution report :: resolve 311ms :: artifacts dl 11ms
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 compile produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-compile.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 runtime produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-runtime.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 test produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-test.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 provided produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-provided.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 optional produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-optional.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 compile-internal produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-compile-internal.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 runtime-internal produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-runtime-internal.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 test-internal produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-test-internal.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 plugin produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-plugin.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 sources produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-sources.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 docs produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-docs.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 pom produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-pom.xml
+[debug] 	report for twitteralgebirdspark#twitteralgebirdspark_2.10;1.0 scala-tool produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark_2.10-scala-tool.xml
+[debug] 	resolve done (311ms resolve - 11ms download)
 [info] Done updating.
