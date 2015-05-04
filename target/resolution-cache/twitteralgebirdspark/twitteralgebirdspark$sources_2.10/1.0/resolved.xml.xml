@@ -4,7 +4,7 @@
 		module="twitteralgebirdspark$sources_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150504110500"
+		publication="20150504112147"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
@@ -134,9 +134,6 @@
 		</dependency>
 		<dependency org="org.scala-sbt" name="logic" rev="0.13.5" transitive="false" conf="default->default(compile)">
 			<artifact name="logic" type="src" ext="jar" conf="sources" e:classifier="sources"/>
-		</dependency>
-		<dependency org="org.scala-sbt" name="compiler-interface" rev="0.13.5" transitive="false" conf="default->default(compile)">
-			<artifact name="compiler-interface" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 		</dependency>
 		<dependency org="org.scala-sbt" name="precompiled-2_8_2" rev="0.13.5" transitive="false" conf="default->default(compile)">
 			<artifact name="precompiled-2_8_2" type="src" ext="jar" conf="sources" e:classifier="sources"/>

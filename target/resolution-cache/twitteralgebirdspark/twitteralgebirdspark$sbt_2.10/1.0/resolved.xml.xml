@@ -4,7 +4,7 @@
 		module="twitteralgebirdspark$sbt_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20150504110459"
+		publication="20150504112144"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
