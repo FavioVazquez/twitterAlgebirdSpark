@@ -653,9 +653,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.5!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.5!apply-macro.jar
-[debug] :: resolution report :: resolve 1317ms :: artifacts dl 42ms
+[debug] :: resolution report :: resolve 823ms :: artifacts dl 18ms
 [debug] 	report for twitteralgebirdspark#twitteralgebirdspark$sbt_2.10;1.0 default produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark$sbt_2.10-default.xml
-[debug] 	resolve done (1317ms resolve - 42ms download)
+[debug] 	resolve done (823ms resolve - 18ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: twitteralgebirdspark#twitteralgebirdspark$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -1015,6 +1015,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.5!precompiled-2_9_3.jar(src)
 [debug] 	[NOT REQUIRED] com.eed3si9n#sbt-assembly;0.13.0!sbt-assembly.jar(src)
 [debug] 	[NOT REQUIRED] org.scalactic#scalactic_2.10;2.2.1!scalactic_2.10.jar(src)
-[debug] :: resolution report :: resolve 173ms :: artifacts dl 28ms
+[debug] :: resolution report :: resolve 192ms :: artifacts dl 27ms
 [debug] 	report for twitteralgebirdspark#twitteralgebirdspark$sources_2.10;1.0 default produced in /home/worker1/Documents/GitProjects/twitterAlgebirdSpark/target/resolution-cache/reports/twitteralgebirdspark-twitteralgebirdspark$sources_2.10-default.xml
-[debug] 	resolve done (173ms resolve - 28ms download)
+[debug] 	resolve done (192ms resolve - 27ms download)
